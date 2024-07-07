@@ -8,10 +8,12 @@ body {
   background-color: rgb(87, 180, 195);
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
+  overflow: hidden;
 }
 
 h2 {
   color: white;
+  text-align: center;
   text-transform: uppercase;
   letter-spacing: 4px;
 }
